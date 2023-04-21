@@ -22,6 +22,9 @@ Hence, our team problem definition develop a deep learning model that can accura
     ├── main_source_code/
     │   ├── source.ipynb
     │   └── non_resampled_source.ipynb
+    ├── readmeAssets/
+    │   ├── originalDatasetImage.png
+    │   └── resizeImages.png
     ├── Conclusion.ipynb
     ├── ExploratoryDataAnalysis.ipynb
     ├── ModelBuilding(Oversampling).ipynb

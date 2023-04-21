@@ -81,7 +81,7 @@ For EDA,the team checked for extension to ensure that all the images are suitabl
 
 Three musketeers that did a tad bit of everything hence our load are pretty equal in all aspect of this project.
 
-1. Anat
+1. Anant
 
 2. Akhilesh
 
